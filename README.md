@@ -41,4 +41,4 @@ BOOL APIENTRY DllMain(HMODULE hModule, DWORD ul_reason_for_call, LPVOID lpReserv
 3. **Inject the DLL:** Use a DLL injector *(such as [DL-Injector](https://github.com/LoulouNoLegend/LD-Injector))* or integrate it into a project to test it.
 
 ## License
-This project is licensed under MIT License. See the [LICENSE]() file for details.
+This project is licensed under MIT License. See the [LICENSE](https://github.com/LoulouNoLegend/DLL-Template/blob/master/LICENSE.txt) file for details.
