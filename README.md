@@ -2,6 +2,8 @@
 
 This is a basic starting point for creating Windows Dynamic Link Libraries (DLLs). This template a simple exemple of how to structure a DLL and has a basic implementation of the `DllMain` function: the entry point for a DLL.
 
+*This was made as a test while working on [DL-Injector](https://github.com/LoulouNoLegend/LD-Injector)*
+
 ## Overview
 This repository only contains a minimal DLL project for Windows that, when loaded into a process, will display a message box saying "Hello from the DLL!". This templates only serves as a foundation that can be used to do more complex DLL projects.
 
