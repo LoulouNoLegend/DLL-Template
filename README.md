@@ -41,6 +41,3 @@ BOOL APIENTRY DllMain(HMODULE hModule, DWORD ul_reason_for_call, LPVOID lpReserv
 1. **Clone or Download:** Get the template from [Github](https://github.com/LoulouNoLegend/DLL-Template).
 2. **Build the DLL:** Use a C++ compiler that supports Windows API functions to compile the code into a DLL.
 3. **Inject the DLL:** Use a DLL injector *(such as [DL-Injector](https://github.com/LoulouNoLegend/LD-Injector))* or integrate it into a project to test it.
-
-## License
-This project is licensed under MIT License. See the [LICENSE](https://github.com/LoulouNoLegend/DLL-Template/blob/master/LICENSE.txt) file for details.
